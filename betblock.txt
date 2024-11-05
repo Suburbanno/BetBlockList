@@ -6,7 +6,7 @@
 ! Entries: 2257
 ! License: https://github.com/suburbanno/BetBlocker/blob/main/LICENSE
 ! Maintainer: Suburbanno
-! Homepage: https://github.com/Suburbanno/BetBlocke
+! Homepage: https://github.com/Suburbanno/BetBlockList
 
 ||br.betano.com
 ||superbet.com
