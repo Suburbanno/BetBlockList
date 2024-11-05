@@ -8,7 +8,7 @@ Este repositório contém uma lista de bloqueio de sites de apostas, que pode se
 1. **Adblock Plus / AdBlock:**
    - Abra a interface da extensão no seu navegador.
    - Vá até "Configurações" e clique em "Adicionar nova lista de bloqueio".
-   - Cole a URL do arquivo `blocklist.txt` ou adicione as URLs manualmente.
+   - Cole a URL do arquivo `betblock.txt`.
 
 2. **uBlock Origin:**
    - Clique no ícone do uBlock Origin na barra de ferramentas do navegador.
@@ -18,7 +18,7 @@ Este repositório contém uma lista de bloqueio de sites de apostas, que pode se
 3. **AdGuard:**
    - Abra o aplicativo AdGuard.
    - Vá até "Filtros" e depois "Adicionar lista de bloqueio".
-   - Insira a URL ou as URLs que deseja adicionar.
+   - Insira a URL.
 
 ### Contribuições
 
