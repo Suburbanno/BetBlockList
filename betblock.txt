@@ -1,5 +1,12 @@
-! Título da Lista: Bloquear Sites de Apostas!
-! Descrição: Esta lista contém URLs de sites de apostas que devem ser bloqueados.
+[Adblock Plus]
+! Version: 20241104
+! Title: BetBlock
+! Description: Esta lista contém URLs de sites de apostas que devem ser bloqueados.
+! Syntax: Adblock Plus Filter List
+! Entries: 2257
+! License: https://github.com/suburbanno/BetBlocker/blob/main/LICENSE
+! Maintainer: Suburbanno
+! Homepage: https://github.com/Suburbanno/BetBlocke
 
 ||br.betano.com
 ||superbet.com
